@@ -1,0 +1,238 @@
+Customer_ID,Customer_Name,Item,Total_Transactions,Quantity_Sold,Total_Spent
+4,Eric Carter,Mousepad,1,1,200.0
+5,William Jackson,DDR RAM,1,1,1500.0
+8,Jason Montgomery,Mousepad,2,2,450.0
+8,Jason Montgomery,DDR RAM,1,1,1500.0
+8,Jason Montgomery,Webcam,1,1,350.0
+10,Darrell Dillon,Keyboard,1,1,400.0
+12,Jodi Gonzalez,Harddisk,1,1,5000.0
+13,Omar Martin,Headset,1,1,900.0
+13,Omar Martin,Monitor,1,1,12000.0
+13,Omar Martin,Keyboard,1,1,400.0
+15,Jason Brown,Webcam,1,1,350.0
+17,Kimberly Mora,Webcam,1,1,350.0
+20,Derek Peterson,DDR RAM,1,1,1500.0
+23,Margaret Hardy,Keyboard,2,2,800.0
+23,Margaret Hardy,Monitor,1,1,12000.0
+24,Arthur Hayes,Keyboard,1,1,400.0
+24,Arthur Hayes,Mousepad,1,1,250.0
+28,Jonathan Manning,Keyboard,1,1,400.0
+29,Angela Bryant,Mousepad,1,1,200.0
+30,Michael Mann,Harddisk,1,1,5000.0
+32,Tiffany Carter,Headset,1,1,900.0
+33,Erica Owens,DDR RAM,1,1,1500.0
+35,Brian Palmer,Keyboard,1,1,400.0
+37,Connor Adams,Mousepad,1,1,250.0
+38,Michael Williams,Harddisk,1,1,5000.0
+39,Ruth Smith,Keyboard,1,1,400.0
+40,Jonathan Middleton,DDR RAM,1,1,1500.0
+47,Carolyn Green,Mouse,1,1,300.0
+47,Carolyn Green,Harddisk,1,1,5000.0
+49,Erin Taylor,Monitor,1,1,12000.0
+50,Charles Garcia,Headset,1,1,900.0
+50,Charles Garcia,Mousepad,1,1,250.0
+52,Haley Martinez,Harddisk,1,1,5000.0
+53,Adam Holmes,Keyboard,1,1,400.0
+53,Adam Holmes,Mousepad,1,1,250.0
+55,Christy Rodriguez,Monitor,1,1,12000.0
+55,Christy Rodriguez,Keyboard,1,1,400.0
+56,Jose Poole,Harddisk,1,1,5000.0
+57,Lacey Mercado,Harddisk,1,1,5000.0
+57,Lacey Mercado,Mousepad,1,1,200.0
+57,Lacey Mercado,DDR RAM,1,1,1500.0
+59,Amanda Cohen,Keyboard,1,1,400.0
+60,Jeremy Rodriguez,Webcam,2,2,700.0
+61,Jade Wall,Monitor,1,1,12000.0
+63,Sarah Greer,Mousepad,1,1,200.0
+63,Sarah Greer,Mouse,1,1,300.0
+63,Sarah Greer,Webcam,1,1,350.0
+64,Sandra Golden,Mousepad,1,1,200.0
+65,David Fritz,Harddisk,1,1,5000.0
+66,Hannah Wu,Mousepad,1,1,250.0
+67,Guy Bennett,Mouse,1,1,300.0
+67,Guy Bennett,DDR RAM,1,1,1500.0
+68,Regina Wong,Mouse,1,1,300.0
+68,Regina Wong,Monitor,1,1,12000.0
+69,Desiree Webster,Keyboard,1,1,400.0
+70,Juan Cruz,Keyboard,3,3,1200.0
+70,Juan Cruz,Mousepad,1,1,250.0
+71,Michelle Edwards,Harddisk,1,1,5000.0
+73,Laura House,Mouse,1,1,300.0
+75,Allen Wright,Harddisk,1,1,5000.0
+78,Thomas Wood,Webcam,2,2,700.0
+80,Kevin Watkins,Keyboard,1,1,400.0
+81,Allison Sweeney,Harddisk,1,1,5000.0
+84,John Bennett,Mouse,1,1,300.0
+85,Michele Maxwell,Keyboard,1,1,400.0
+85,Michele Maxwell,Harddisk,1,1,5000.0
+86,Emily Thomas,Headset,1,1,900.0
+86,Emily Thomas,Keyboard,1,1,400.0
+86,Emily Thomas,DDR RAM,1,1,1500.0
+87,Mark Rogers,Webcam,1,1,350.0
+87,Mark Rogers,Keyboard,1,1,400.0
+89,David Yoder,Mouse,1,1,300.0
+89,David Yoder,Keyboard,1,1,400.0
+89,David Yoder,Headset,1,1,900.0
+91,Stephanie Hicks,Mousepad,1,1,200.0
+92,Paul Brown,Keyboard,1,1,400.0
+92,Paul Brown,Webcam,1,1,350.0
+92,Paul Brown,Monitor,1,1,12000.0
+94,Krystal Carroll,Mousepad,1,1,200.0
+95,Alyssa Walker,Mousepad,1,1,250.0
+96,Eric Harvey,Mouse,1,1,300.0
+96,Eric Harvey,DDR RAM,1,1,1500.0
+96,Eric Harvey,Headset,1,1,900.0
+96,Eric Harvey,Monitor,1,1,12000.0
+97,Debbie Rogers,Mouse,1,1,300.0
+97,Debbie Rogers,DDR RAM,1,1,1500.0
+98,Steve Braun,Monitor,1,1,12000.0
+98,Steve Braun,Mousepad,1,1,200.0
+98,Steve Braun,Mouse,1,1,300.0
+99,Ryan Rojas,DDR RAM,1,1,1500.0
+99,Ryan Rojas,Keyboard,1,1,400.0
+101,Brian Olson,Webcam,2,2,700.0
+101,Brian Olson,Headset,1,1,900.0
+102,Jessica Welch,Harddisk,1,1,5000.0
+103,Stephanie Faulkner,Webcam,1,1,350.0
+103,Stephanie Faulkner,Mouse,1,1,300.0
+105,Monique Wright,Mousepad,1,1,200.0
+106,Veronica Stein,Headset,1,1,900.0
+107,Breanna Santos,Mousepad,1,1,250.0
+107,Breanna Santos,DDR RAM,1,1,1500.0
+108,Jeremy Lee,Webcam,1,1,350.0
+109,R0bert Moore,Keyboard,1,1,400.0
+110,Tiffany Pearson,Mousepad,1,1,200.0
+111,Audrey Richardson,Headset,1,1,900.0
+112,Maureen Bryant,Keyboard,1,1,400.0
+113,Derrick R0berts,Mousepad,1,1,250.0
+114,Jeffrey Sullivan,Keyboard,1,1,400.0
+117,Steven Black,Webcam,1,1,350.0
+118,R0bert Shepherd,Keyboard,1,1,400.0
+118,R0bert Shepherd,Monitor,1,1,12000.0
+119,Robin Snyder,Harddisk,1,1,5000.0
+119,Robin Snyder,DDR RAM,1,1,1500.0
+122,Charles Nunez,Mouse,1,1,300.0
+123,Philip Robinson,Harddisk,1,1,5000.0
+123,Philip Robinson,Monitor,1,1,12000.0
+124,Rachel Larson,Webcam,1,1,350.0
+124,Rachel Larson,Harddisk,1,1,5000.0
+125,Stephen Sharp,Mousepad,1,1,250.0
+126,Aimee Jacobs,Keyboard,1,1,400.0
+129,Amber Banks,Monitor,1,1,12000.0
+129,Amber Banks,Harddisk,1,1,5000.0
+131,Miranda Williams,Monitor,1,1,12000.0
+134,James Keith,Webcam,1,1,350.0
+134,James Keith,Keyboard,1,1,400.0
+134,James Keith,Mouse,1,1,300.0
+135,Shawn Johnson,Webcam,1,1,350.0
+136,Natalie Page,DDR RAM,1,1,1500.0
+138,Brian Bowman,Headset,1,1,900.0
+139,Ryan Martin,Keyboard,1,1,400.0
+143,Stacey Welch,Monitor,1,1,12000.0
+143,Stacey Welch,Webcam,1,1,350.0
+143,Stacey Welch,Mouse,1,1,300.0
+144,Brett Burns,Mousepad,1,1,200.0
+145,Michael Case,Mouse,1,1,300.0
+146,Terry Bailey,Keyboard,2,2,800.0
+150,Sherry Parsons,Headset,1,1,900.0
+151,Javier Jones,Monitor,1,1,12000.0
+151,Javier Jones,Keyboard,1,1,400.0
+151,Javier Jones,Mousepad,1,1,200.0
+152,Jill Kane,Mousepad,1,1,200.0
+153,Janet Valdez,Keyboard,1,1,400.0
+153,Janet Valdez,Mousepad,2,2,450.0
+156,Jessica Marshall,Mouse,1,1,300.0
+157,Sharon Warner,Headset,1,1,900.0
+157,Sharon Warner,Webcam,1,1,350.0
+157,Sharon Warner,Mouse,1,1,300.0
+158,Zachary Williams,Monitor,1,1,12000.0
+159,Brooke Durham,Headset,1,1,900.0
+159,Brooke Durham,Harddisk,1,1,5000.0
+161,Gabrielle Smith,Headset,1,1,900.0
+162,N!cole Bennett,Keyboard,1,1,400.0
+163,Heather Ali,Webcam,1,1,350.0
+164,Sandra Mcmahon,DDR RAM,1,1,1500.0
+164,Sandra Mcmahon,Harddisk,1,1,5000.0
+166,Morgan Cooper,Monitor,1,1,12000.0
+166,Morgan Cooper,Harddisk,1,1,5000.0
+166,Morgan Cooper,Webcam,1,1,350.0
+167,Matthew Stokes,Keyboard,1,1,400.0
+167,Matthew Stokes,Monitor,1,1,12000.0
+171,L@rry Cole,Keyboard,1,1,400.0
+172,Jeffrey Diaz,Mousepad,2,2,500.0
+172,Jeffrey Diaz,DDR RAM,1,1,1500.0
+174,Emily Jones,Mouse,1,1,300.0
+176,Tiffany Bowers,Mousepad,1,1,250.0
+176,Tiffany Bowers,DDR RAM,1,1,1500.0
+177,Linda Craig,Mousepad,1,1,200.0
+178,Christine Smith,Headset,1,1,900.0
+180,Brenda Lewis,Mouse,1,1,300.0
+181,Adrian West,Keyboard,1,1,400.0
+181,Adrian West,Harddisk,1,1,5000.0
+183,April Beck,Mouse,1,1,300.0
+184,Anthony Nicholson,DDR RAM,1,1,1500.0
+186,Xavier Miles,Harddisk,1,1,5000.0
+186,Xavier Miles,Mousepad,1,1,250.0
+188,Michele Rogers,Mousepad,1,1,200.0
+190,Grace Hartman,Keyboard,1,1,400.0
+190,Grace Hartman,Mouse,1,1,300.0
+191,Joseph Miller,Mousepad,1,1,200.0
+192,David Arnold,Mouse,1,1,300.0
+193,Yesenia White,Mousepad,2,2,450.0
+193,Yesenia White,DDR RAM,1,1,1500.0
+193,Yesenia White,Monitor,1,1,12000.0
+194,Nancy Miller,DDR RAM,1,1,1500.0
+195,Christopher Doyle,Mousepad,1,1,200.0
+195,Christopher Doyle,DDR RAM,1,1,1500.0
+196,Taylor Reed,Harddisk,1,1,5000.0
+197,Katherine Ferguson,Headset,1,1,900.0
+198,R0bert Bryan,Mousepad,1,1,250.0
+198,R0bert Bryan,Keyboard,1,1,400.0
+200,Rebecca Robinson,Keyboard,1,1,400.0
+200,Rebecca Robinson,Mousepad,1,1,200.0
+201,Bethany Anderson,Webcam,1,1,350.0
+202,Mary Williams,Mousepad,1,1,250.0
+203,Carlos Wallace,Mousepad,1,1,250.0
+206,Courtney Lopez,Monitor,1,1,12000.0
+207,Chelsea Moyer,Monitor,1,1,12000.0
+208,Brittany Golden,Keyboard,1,1,400.0
+208,Brittany Golden,Mousepad,1,1,250.0
+209,Russell Berry,Mousepad,1,1,250.0
+211,Al1cia Thompson,Mousepad,1,1,200.0
+214,N!cole Mcintyre,Headset,1,1,900.0
+215,Vincent Kline,Keyboard,1,1,400.0
+218,Thomas Mclaughlin,Mouse,1,1,300.0
+221,Sarah Gilbert,Mousepad,1,1,250.0
+221,Sarah Gilbert,Keyboard,1,1,400.0
+221,Sarah Gilbert,Monitor,1,1,12000.0
+222,Jeremy Andrews,Mousepad,1,1,200.0
+223,Megan Morris,DDR RAM,1,1,1500.0
+223,Megan Morris,Headset,2,2,1800.0
+224,Zachary Davis,Keyboard,1,1,400.0
+225,Michael Phelps,Headset,1,1,900.0
+226,Christopher Robinson,Keyboard,1,1,400.0
+228,Andrea Velasquez,Harddisk,1,1,5000.0
+229,Philip Newton,Monitor,1,1,12000.0
+229,Philip Newton,Mousepad,1,1,200.0
+229,Philip Newton,DDR RAM,1,1,1500.0
+231,Eric Levine,Headset,1,1,900.0
+232,Michael Lopez,Webcam,1,1,350.0
+234,Diane Tanner,Keyboard,1,1,400.0
+235,Melissa Gaines,Keyboard,1,1,400.0
+235,Melissa Gaines,Webcam,1,1,350.0
+236,Al1cia Jensen,DDR RAM,1,1,1500.0
+238,Kyle Ruiz,Headset,1,1,900.0
+238,Kyle Ruiz,Mouse,1,1,300.0
+239,Janet Holmes,Keyboard,1,1,400.0
+239,Janet Holmes,Monitor,1,1,12000.0
+242,Mark R0berts,Monitor,1,1,12000.0
+243,Alejandro Bailey,Keyboard,1,1,400.0
+244,Mark Rivers,Headset,1,1,900.0
+246,Justin Stewart,Headset,1,1,900.0
+247,John Miller,Keyboard,1,1,400.0
+247,John Miller,Mousepad,1,1,250.0
+247,John Miller,Harddisk,1,1,5000.0
+249,Patricia Garcia,Headset,1,1,900.0
+249,Patricia Garcia,DDR RAM,1,1,1500.0
+249,Patricia Garcia,Mousepad,2,2,450.0
+250,Stephen Jones,Mouse,1,1,300.0
